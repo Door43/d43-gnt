@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gnt:home|Door43 (gnt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gnt|d43-gnt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gnt/archive/master.zip|d43-gnt.zip]]
+
+**Recent Changes**
+{{changes>ns = gnt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gnt|Ethnologue data]]
+
